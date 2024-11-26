@@ -1,0 +1,7 @@
+Run this commands from CMD
+1) cd (to where ever this project is)
+2) pyinstaller --onefile --windowed todo_list.py
+
+Packages to install
+tkcalendar
+tkinter
